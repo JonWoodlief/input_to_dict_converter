@@ -28,5 +28,4 @@ time_wait = {
 close_wait = {
     "APP_CLOSE": "LAST_ACK"}
 last_ack = {
-    "RCV_ACK": "CLOSE"
-}
+    "RCV_ACK": "CLOSE"}

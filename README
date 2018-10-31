@@ -1,0 +1,3 @@
+Converts the explanation for a finite state machine into a python dictionary
+
+for use with kata: https://www.codewars.com/kata/54acc128329e634e9a000362/train/python
